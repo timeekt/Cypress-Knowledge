@@ -1,6 +1,4 @@
-# twpqa
-qa testing
-
+# Cypress 
 Cypress install
 - npm install cypress --save--dev
 
